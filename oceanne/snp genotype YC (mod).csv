@@ -1,0 +1,8 @@
+SNP ID,alleles,Cluster (YC),Chinook (YC),Citra (YC),Cascade (YC),Mt.Hood (YC),Magnum (YC),El.Dorado (YC),Centennial (YC),Columbus (YC),Mosaic (YC),Simcoe (YC),Nugget (YC),Amarillo (YC),Williamette (YC)
+HL403,A/C,M,M,M,A,C,A,C,M,A,M,M,M,M,M
+HL094,A/G,A,A,G,G,G,R,A,R,A,R,G,A,R,R
+HL055,C/T,Y,Y,Y,C,Y,T,Y,C,Y,C,C,T,Y,Y
+HL074,G/A,G,G,G,R,G,R,G,R,G,G,R,G,R,R
+HL349,C/T,Y,Y,C,Y,Y,Y,C,C,C,Y,Y,Y,Y,Y
+HL590,C/T,C,C,C,T,C,T,C,T,C,C,T,C,T,T
+HL202,C/G,S,S,S,C,S,G,S,C,C,G,S,G,S,S
